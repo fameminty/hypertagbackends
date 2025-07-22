@@ -304,7 +304,6 @@ def consume_oculus_iap():
     response = requests.post(
         url=f"https://graph.oculus.com/consume_entitlement?nonce={nonce}&user_id={user_id}&sku={sku}&access_token={settings.ApiKey}",
         headers={"content-type": "application/json"},
-    )
 
     if response.json().get("success"):
         return jsonify({"result": True})
@@ -370,7 +369,8 @@ def discord_message(message):
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8080)
-
+    })
+    
     @app.route("/api/photon", methods=["POST"])
 def photonauth():
     print(f"Received {request.method} request at /api/photon")
