@@ -310,7 +310,7 @@ def consume_oculus_iap():
         return jsonify({"result": True})
     else:
         return jsonify({"error": True})
-
+    )
 
 @app.route("/api/photon/authenticate", methods=["POST"])
 def photon_authenticate():
