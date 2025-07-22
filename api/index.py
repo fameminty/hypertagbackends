@@ -367,9 +367,6 @@ def discord_message(message):
       headers=headers
     )
 
-if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080)
-    
     @app.route("/api/photon", methods=["POST"])
 def photonauth():
     print(f"Received {request.method} request at /api/photon")
@@ -527,4 +524,8 @@ def ReturnFunctionJson(data, funcname, funcparam={}):
     else:
         print(f"Function execution failed, status code: {req.status_code}")
         return jsonify({}), req.status_code
+    }
 
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8080)
+    
