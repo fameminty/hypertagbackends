@@ -194,7 +194,7 @@ def cache_playfab_id():
 @app.route("/api/TitleData", methods=["POST", "GET"])
 def title_data():
     return jsonify({
-      "MOTD": "[ <color=red>W</color><color=red></color><color=orange>E</color><color=yellow>L</color><color=green>C</color><color=green>O</color><color=blue>M</color>E <color=red>T</color><color=orange>O </color><color=yellow>H</color><color=green>Y</color><color=green>P</color><color=blue>ER</color> T<color=red>A</color><color=orange>G</color><color=green></color><color=blue></color><color=red></color> ]\n<color=green>DISCORD.GG/HYPERTAG</color>\n<color=red>CURRENT UPDATE: METRO 2024!!!</color>\n/n/<color=orange>IF YOU BOOST THE DISCORD SERVER YOU GET EVERY SINGLE COSMETICS, EXECPT STAFF COSMETICS!!</color>\n/n/<color=yellow>MAIN OWNER: RAIDER</color>\n/n/<color=purple>CREDITS: BXT & NEVA, TABLE</color>",
+      "MOTD": "[ <color=red>W</color><color=red></color><color=orange>E</color><color=yellow>L</color><color=green>C</color><color=green>O</color><color=blue>M</color>E <color=red>T</color><color=orange>O </color><color=yellow>H</color><color=green>Y</color><color=green>P</color><color=blue>ER</color> T<color=red>A</color><color=orange>G</color><color=green></color><color=blue></color><color=red></color> ]\n<color=green>DISCORD.GG/HYPERTAG</color>\n<color=red>CURRENT UPDATE: METRO 2024!!!</color> <color=orange>IF YOU BOOST THE DISCORD SERVER YOU GET EVERY SINGLE COSMETICS, EXECPT STAFF COSMETICS!!</color>\n/n/<color=yellow>MAIN OWNER: RAIDER</color>\n/n/<color=purple>CREDITS: BXT & NEVA, TABLE</color>",
       "BundleBoardSign": "discord.gg/hypertag",
       "BundleKioskButton": "discord.gg/hypertag",
       "BundleKioskSign": "discord.gg/hypertag",
