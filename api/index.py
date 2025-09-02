@@ -50,7 +50,7 @@ def GetIsNonceValid(nonce: str, oculusId: str):
 @app.route("/", methods=["POST", "GET"])
 def main():
     return jsonify({
-    "Gimme credits in the motd for this backend yo, this is laxlep btw just do <color=red>CREDITS: LAXLEP</color>"
+    "CREDITS TO LAXLEP FOR BACKENDS"
     })
 
 @app.route("/api/PlayFabAuthentication", methods=["POST"])
