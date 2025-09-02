@@ -191,7 +191,7 @@ def titledata():
         "GorillanalyticsChance": 4320,
         "LatestPrivacyPolicyVersion": "2024.09.20",
         "LatestTOSVersion": "2024.09.20",
-        "MOTD": "<color=red>WELCOME TO HYPER TAG!</color>\n<color=yellow>OWNER:RAIDER</color>\n<color=blue>DISCORD.GG/HYPERTAG</color>IF YOU BOOST YOU GET EVERY COSMETIC IN THE GAME (EXEPT STAFF COSMETICS)</color>\n<color=purple>CREDITS:RAIDER,LAXLEP",
+        "MOTD": "<color=red>WELCOME TO HYPER TAG!</color>\n<color=yellow>OWNER:RAIDER</color>\n<color=blue>DISCORD.GG/HYPERTAG</color>",
         "SeasonalStoreBoardSign": "<color=red>RATE THE GAME 5 STAR!</color>\n<color=blue>.GG/HYPERTAG</color>",
         "TOS_2024.09.20": "DISCORD.GG/HYPERTAG",
         "TOBAlreadyOwnCompTxt": "DISCORD.GG/HYPERTAG",
