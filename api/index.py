@@ -60,7 +60,7 @@ def get_is_nonce_valid(nonce, oculus_id):
 
 @app.route("/", methods=["POST", "GET"])
 def main():
-    return leave me alone heheh
+    return jsonify({ "hi pal"
     
   "GorillanalyticsChance": "4320",
   "AutoName_Adverbs": "[\"Cool\",\"Fine\",\"Bald\",\"Bold\",\"Half\",\"Only\",\"Calm\",\"Fab\",\"Ice\",\"Mad\",\"Rad\",\"Big\",\"New\",\"Old\",\"Shy\"]",
