@@ -1,0 +1,185 @@
+{
+  "EnableCustomAuthentication": "true",
+  "MOTD": "GAME SHUTDOWN, DISCORD.GG/ORIGINALTAG FOR MORE INFO",
+  "PrivacyPolicy_2024.03.07": "DISCORD.GG/ORIGINALTAG",
+  "LatestPrivacyPolicyVersion": "2024.03.07",
+  "TOS_11.05.22.2": "DISCORD.GG/ORIGINALTAG",
+  "BundleBoardSign": "",
+  "BundleKioskButton": "",
+  "BundleKioskSign": "",
+  "BundleLargeSign": "",
+  "SeasonalStoreBoardSign": "",
+  "UseLegacyIAP": "true",
+  "AutoMuteCheckedHours": "336",
+  "AutoName_Adverbs": ["Cool", "Fine", "Bald", "Bold", "Half", "Only", "Calm", "Fab", "Ice", "Mad", "Rad", "Big", "New", "Old", "Shy"],
+  "AutoName_Nouns": ["Gorilla", "Chicken", "Darling", "Sloth", "King", "Queen", "Royal", "Major", "Actor", "Agent", "Elder", "Honey", "Nurse", "Doctor", "Rebel", "Shape", "Ally", "Driver", "Deputy"],
+  "EmptyFlashbackText": "\"FLOOR TWO NOW OPEN\\n FOR BUSINESS\\n\\nSTILL SEARCHING FOR\\nBOX LABELED 2021\"",
+  "GorillanalyticsChance": "4320",
+  "CreditsData": [
+    {
+      "Title": "DEV TEAM",
+      "Entries": [
+        "Colls \"Developer\" Copy Owner",
+        "Covid \"Developer\" Copy Owner",
+        "Carlo Grossi Jr",
+        "Cody O'Quinn",
+        "Craig Abell",
+        "David Neubelt",
+        "David Yee",
+        "Derek \"DunkTrain\" Arabian",
+        "Duncan \"rev2600\" Carroll",
+        "Elie Arabian",
+        "Eric “8on2” Kearns",
+        "John Sleeper",
+        "Johnny Wing",
+        "Jonathan \"Jonny D\" Dearborn",
+        "Jonathan \"JHameltime\" Hamel",
+        "Jordan \"CircuitLord\" J.",
+        "Haunted Army",
+        "Kaleb \"BiffBish\" Skillern",
+        "Kerestell Smith \"Game Owner\" Developer",
+        "Keith \"ElectronicWall\" Taylor",
+        "Mark Putong",
+        "Matt \"Crimity\" Ostgard",
+        "Nick Taylor",
+        "Riley O'Callaghan",
+        "Ross Furmidge",
+        "Zac Mroz"
+      ]
+    },
+    {
+      "Title": "SPECIAL THANKS",
+      "Entries": [
+        "Alpha Squad",
+        "Caroline Arabian",
+        "Clarissa & Declan",
+        "Calum Haigh",
+        "EZ ICE",
+        "Gwen",
+        "Laura \"Poppy\" Lorian",
+        "Lilly Tothill",
+        "Meta",
+        "Mighty PR",
+        "Sasha \"Kayze\" Sanders",
+        "Scout House",
+        "The \"Sticks\""
+      ]
+    },
+    {
+      "Title": "MUSIC BY",
+      "Entries": [
+        "Stunshine",
+        "David Anderson Kirk",
+        "Jaguar Jen",
+        "Audiopfeil",
+        "Owlobe"
+      ]
+    }
+  ],
+  "bundleData": [
+    {
+      "isActive": false,
+      "skuName": "2023_march_pot_o_gold",
+      "shinyRocks": "5000",
+      "playFabItemName": "LSAAU.",
+      "majorVersion": 1,
+      "minorVersion": 1,
+      "minorVersion2": 39
+    },
+    {
+      "skuName": "2023_sweet_heart_bundle",
+      "playFabItemName": "LSAAS.",
+      "shinyRocks": 0,
+      "isActive": true
+    },
+    {
+      "skuName": "2022_launch_bundle",
+      "playFabItemName": "LSAAP2.",
+      "shinyRocks": 10000,
+      "isActive": false
+    },
+    {
+      "skuName": "early_access_supporter_pack",
+      "playFabItemName": "Early Access Supporter Pack",
+      "shinyRocks": 0,
+      "isActive": false
+    }
+  ],
+  "BuilderTable01": "",
+  "BuilderTableConfiguration": {
+    "version": 0,
+    "TableResourceLimits": [10000, 2500, 200],
+    "PlotResourceLimits": [1500, 375, 30],
+    "DroppedPieceLimit": 100
+  },
+  "BundleBoardSign_1.1.46": "x",
+  "MuteThresholds": [
+    {
+      "name": "low",
+      "threshold": 30
+    },
+    {
+      "name": "high",
+      "threshold": 50
+    }
+  ],
+  "PrivacyPolicy_2024.03.07": "DISCORD.GG/ORIGINALTAG",
+  "Versions": {
+    "CreditsData": 11,
+    "MOTD_1.1.38": 8,
+    "MOTD_1.1.39": 7,
+    "bundleData": 1,
+    "BundleLargeSign_1.1.40": 1,
+    "BundleBoardSign_1.1.40": 0,
+    "BundleKioskSign_1.1.40": 1,
+    "BundleKioskButton_1.1.40": 0,
+    "SeasonalStoreBoardSign_1.1.40": 0,
+    "MOTD_1.1.40": 0,
+    "MOTD_1.1.42": 2,
+    "MOTD_1.1.43": 0,
+    "SeasonalStoreBoardSign_1.1.43": 0,
+    "MOTD_1.1.45": 10,
+    "MOTD_1.1.46": 1
+  },
+  "VotekickDuration": "10",
+  "DeployFeatureFlags": {
+    "flags": [
+      {
+        "name": "2024-05-ReturnCurrentVersionV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-ReturnMyOculusHashV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-TryDistributeCurrencyV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-AddOrRemoveDLCOwnershipV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-05-BroadcastMyRoomV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-06-CosmeticsAuthenticationV2",
+        "value": 0,
+        "valueType": "percent"
+      },
+      {
+        "name": "2024-08-KIDIntegrationV1",
+        "value": 0,
+        "valueType": "percent",
+        "alwaysOnForUsers": [""]
+      }
+    ]
+  }
+}
