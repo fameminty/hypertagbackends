@@ -1,9 +1,9 @@
 {
   "EnableCustomAuthentication": "true",
-  "MOTD": "GAME SHUTDOWN, DISCORD.GG/ORIGINALTAG FOR MORE INFO",
-  "PrivacyPolicy_2024.03.07": "DISCORD.GG/ORIGINALTAG",
+  "MOTD": "GAME SHUTDOWN, DISCORD.GG/BLAWGTAG FOR MORE INFO",
+  "PrivacyPolicy_2024.03.07": "DISCORD.GG/BLAWGTAG",
   "LatestPrivacyPolicyVersion": "2024.03.07",
-  "TOS_11.05.22.2": "DISCORD.GG/ORIGINALTAG",
+  "TOS_11.05.22.2": "DISCORD.GG/BLAWGTAG",
   "BundleBoardSign": "",
   "BundleKioskButton": "",
   "BundleKioskSign": "",
@@ -17,10 +17,10 @@
   "GorillanalyticsChance": "4320",
   "CreditsData": [
     {
-      "Title": "DEV TEAM",
+      "Title": "BlAWG TAG DEV TEAM",
       "Entries": [
-        "Colls \"Developer\" Copy Owner",
-        "Covid \"Developer\" Copy Owner",
+        "Raider \"Developer\" Copy Owner",
+        "Colls \"Developer\" Helper",
         "Carlo Grossi Jr",
         "Cody O'Quinn",
         "Craig Abell",
@@ -123,7 +123,7 @@
       "threshold": 50
     }
   ],
-  "PrivacyPolicy_2024.03.07": "DISCORD.GG/ORIGINALTAG",
+  "PrivacyPolicy_2024.03.07": "DISCORD.GG/BLAWGTAG",
   "Versions": {
     "CreditsData": 11,
     "MOTD_1.1.38": 8,
@@ -183,3 +183,4 @@
     ]
   }
 }
+
